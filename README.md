@@ -1,5 +1,5 @@
 # bloop_laravel
 
-<p align="center">
+<h1 align="center">
 laravel Blog
-</p>
+</h1>
